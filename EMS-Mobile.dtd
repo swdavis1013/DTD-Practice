@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ELEMENT warning (hazard,action+,signature*)>
+<!ELEMENT hazard (hazard-type,area+,time)>
+<!ELEMENT hazard-type (#PCDATA)>
+<!ELEMENT area (#PCDATA)>
+<!ELEMENT time (#PCDATA)>
+<!ATTLIST time zone CDATA #REQUIRED>
+<!ELEMENT action (#PCDATA)>
+<!ELEMENT signature (#PCDATA)>

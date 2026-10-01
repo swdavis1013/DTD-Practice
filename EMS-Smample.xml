@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="ems.css"?>
+<!DOCTYPE warning SYSTEM "EMS-Mobile.dtd">
+
+<warning>
+    <hazard>
+        <hazard-type>Flash Flood Warning</hazard-type>
+        <area>this area</area>
+        <time zone="EDT">til 6:00 pm</time>
+    </hazard>
+    <action>Avoid flooded areas.</action>
+    <action>Tune in to local media</action>
+    <signature>NWS</signature>
+</warning>
