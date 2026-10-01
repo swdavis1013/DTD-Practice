@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!ELEMENT recipe (recipeType,list,action+)>
-<!ELEMENT recipeType (#PCDATA)>
+<!ELEMENT recipeName (#PCDATA)>
 <!ELEMENT list (ingredient+)>
 <!ELEMENT ingredient (#PCDATA)>
 <!ELEMENT action (#PCDATA)>
