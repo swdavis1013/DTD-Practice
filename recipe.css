@@ -3,7 +3,7 @@ recipe {
     font-family: sans-serif;
     font-size: 14px;
     text-align: left;
-    width: 300px;
+    width: 600px;
     height: 300px;
     display: block;
 }
@@ -12,12 +12,18 @@ recipeType {
     display: block;
 }
 
-action {
-    display: block;
-    color: white;
-}
-
 list {
     font-size: 16px;
-    color: white;
+    color: blue;
 }
+
+ingredient {
+    font-size: 16px;
+    color: blue;
+}
+
+action {
+    display: block;
+    color: blue;
+}
+
