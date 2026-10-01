@@ -2,6 +2,7 @@
 
 <!ELEMENT recipe (recipeType,list,action+)>
 <!ELEMENT recipeName (#PCDATA)>
-<!ELEMENT list (ingredient+)>
+<!ELEMENT ingredients (ingredient+)>
 <!ELEMENT ingredient (#PCDATA)>
+<!ELEMENT steps (action+)>
 <!ELEMENT action (#PCDATA)>
