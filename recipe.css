@@ -8,11 +8,11 @@ recipe {
     display: block;
 }
 
-recipeType {
+recipeName {
     display: block;
 }
 
-list {
+ingredients {
     font-size: 16px;
     color: blue;
 }
@@ -21,6 +21,10 @@ ingredient {
     font-size: 16px;
     color: blue;
 }
+
+steps {
+    display: block;
+    color: blue;
 
 action {
     display: block;
