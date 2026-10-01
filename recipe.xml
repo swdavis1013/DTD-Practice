@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="recipe.css"?>
-<!DOCTYPE recipe "Recipe.dtd">
+<!DOCTYPE recipe SYSTEM "recipe.dtd">
 
 <recipe>
   <recipeType> Cream Cheese Frosting </recipeType> 
